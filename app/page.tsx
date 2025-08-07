@@ -103,7 +103,7 @@ export default function Home() {
       <section id="contact" className="py-20 mt-10 w-full bg-gray-900 scroll-mt-24">
         <div className="text-center">
             <h2 className="text-4xl font-bold mb-4 text-white">Get In Touch</h2>
-            <p className="text-lg text-gray-300 mb-8 max-w-md mx-auto">I&apos currently open to new opportunities. My inbox is always open!</p>
+            <p className="text-lg text-gray-300 mb-8 max-w-md mx-auto">I&apos;m currently open to new opportunities. My inbox is always open!</p>
             <a 
                 href={`mailto:${personalInfo.email}`} 
                 className="bg-white text-black font-bold py-3 px-8 rounded-lg hover:bg-gray-200 transition text-lg"
