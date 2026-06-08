@@ -3,7 +3,7 @@ export const personalInfo = {
   title: "Hardware & Software Engineer",
   tagline: "I'm fascinated by the entire journey of science and technology, from its physical form to its intelligent behavior. I'm looking for a role where this complete, end-to-end perspective is exactly what's needed to create something exceptional.",
   email: "poornimadevimz@gmail.com",
-  linkedin: "https://linkedin.com/in/Poornima-Devi-629898221",
+  linkedin: "https://www.linkedin.com/in/poornimadevi24/",
   github: "https://github.com/poornimz",
 };
 
